@@ -1,1 +1,1 @@
-<script>console.log('done');</script>
+console.log('done');
